@@ -1,0 +1,18 @@
+[{
+    "categoryId": "1",
+    "categoryName": "Matematika",
+    "totalCourses": "8",
+    "image": "https://www.reshot.com/preview-assets/illustrations/2Q7X6SUT54/math-learning-2Q7X6SUT54-w1600.jpg" 
+},
+{
+    "categoryId": "2",
+    "categoryName": "Science",
+    "totalCourses": "8",
+    "image": "https://www.reshot.com/preview-assets/illustrations/TU7JKFGRWM/data-science-TU7JKFGRWM-w1600.jpg"
+},
+{
+    "categoryId": "3",
+    "categoryName": "Computer",
+    "totalCourses": "8",
+    "image": "https://www.reshot.com/preview-assets/illustrations/J3FA26SRVL/computer-vision-J3FA26SRVL-w1600.jpg"
+}]
